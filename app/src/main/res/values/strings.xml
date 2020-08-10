@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent_APP</string>
+    <string name="pindah_actyfity">Pindah Actyfity</string>
+    <string name="pindah_actyfity_with_data">Pindah Actyfity with data</string>
+    <string name="dial_number">dial number</string>
+    <string name="data_di_terima">data di terima</string>
+
+    <string name="title_activity_pindah_data">PindahData</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
